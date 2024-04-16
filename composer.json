@@ -1,5 +1,5 @@
 {
-    "name": "doc/jats-parser",
+    "name": "kolin/jats-parser",
     "description": "JATS XML parser",
     "type": "library",
     "license": "GPLv3",
